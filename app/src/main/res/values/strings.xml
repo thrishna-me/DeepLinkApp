@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DeepLinkApp</string>
+    <string name="go">Go</string>
+    <string name="paste_link_here">Paste link here</string>
 </resources>
